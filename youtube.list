@@ -33,6 +33,11 @@ DOMAIN-SUFFIX,youtube.co.in
 DOMAIN-SUFFIX,youtube.co.jp
 DOMAIN-SUFFIX,youtube.co.ke
 DOMAIN-SUFFIX,youtube.co.kr
+DOMAIN,music.youtube.com
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN-SUFFIX,youtube.co.ma
 DOMAIN-SUFFIX,youtube.co.nz
 DOMAIN-SUFFIX,youtube.co.th
